@@ -1,7 +1,7 @@
-name: camera
+name: flashCamera
 description: A Flutter plugin for getting information about and controlling the
   camera on Android and iOS. Supports previewing the camera feed and capturing images.
-version: 0.2.8
+version: 0.0.1
 authors:
   - Flutter Team <flutter-dev@googlegroups.com>
   - Luigi Agosti <luigi@tengio.com>
@@ -9,7 +9,7 @@ authors:
   - Koushik Ravikumar <koushik@tengio.com>
   - Nissim Dsilva <nissim@tengio.com>
 
-homepage: https://github.com/flutter/plugins/tree/master/packages/camera
+homepage: https://github.com/mtellect/flashCamera
 
 dependencies:
   flutter:
